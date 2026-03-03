@@ -1,0 +1,8 @@
+{
+    "name": "data-converter-plugin",
+    "description": "Convert data from input .xlsx/.csv files into target",
+    "version": "1.0.0",
+    "author": {
+        "name": "yoooche"
+    }
+}
